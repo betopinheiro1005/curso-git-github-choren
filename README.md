@@ -1,11 +1,26 @@
 # Curso de Git e GitHub
 
-1. Controle de versão
-2. Conhecendo o Git
-3. Instalando o Git CLI no Windows
-4. Instalando o Git CLI no Linux
-5. Comandos básicos do Git
-6. Comando git commit
-7. Comando git log
-8. Comando git rm
-9. Comando git diff
+## Professor Choren
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=beMnH51P-T4&list=PLmMxPWmzYRGcTabffOwHBORBjtKa2wCXS)
+
+Aula 01 - Controle de versão
+Aula 02 - Conhecendo o Git
+Aula 03 - Instalando o Git CLI no Windows
+Aula 04 - Instalando o Git CLI no Linux
+Aula 05 - Comandos básicos do Git
+Aula 06 - Comando git commit
+Aula 07 - Comando git log
+Aula 08 - Comando git rm
+Aula 09 - Comando git diff
+Aula 10 - Comando git restore e git reset
+Aula 11 - Arquivo .gitignore
+Aula 12 - Comando git checkout
+Aula 13 - Comando git merge
+Aula 14 - Comando git tag
+Aula 15 - Conhecendo o GitHub e utilizando o comando git push
+Aula 16 - Comando git clone e git push
+Aula 17 - Comando git pull
+Aula 18 - Publicando tags no GitHub
+Aula 19 - Gestão de conflitos no merge
+Aula 20 - Contribuição com repositório no GitHub
