@@ -1,3 +1,2 @@
-05/01/2022 - A
-
 06/01/2022 - Aprendendo sobre a gestão de conflitos
+05/01/2022 - Aprendendo sobre o comando git log.
